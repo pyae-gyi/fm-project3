@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Figtree", sans-serif;
+}
+
+.extra-Bold {
+    font-weight: 800;
+    font-family: "Figtree", sans-serif;
+}
